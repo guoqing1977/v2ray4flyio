@@ -1,5 +1,6 @@
 #!/bin/sh
 
+
 # Set ARG
 ARCH="64"
 DOWNLOAD_PATH="/tmp/v2ray"
